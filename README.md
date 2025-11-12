@@ -41,28 +41,30 @@ Untuk Windows, disarankan menggunakan:
 
 ### 1. Tampilan Komentar Awal (Admin)
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2f0c380d-97ff-4ea3-9da0-abc3ccfa9c91" />
+<img width="1920" height="1020" alt="Cuplikan layar 2025-11-12 191241" src="https://github.com/user-attachments/assets/814b6604-f90c-4d21-931d-408603f774db" />
+
 
 ### 2. Membuat Komentar
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/e908c29f-e2c0-46a4-a5e5-47dbef868bb9" />
+<img width="1920" height="1020" alt="Cuplikan layar 2025-11-12 190733" src="https://github.com/user-attachments/assets/39271ad8-e5c1-4a5a-b98c-856a4277056d" />
 
 ### 3. Tampilan List Komentar (Admin)
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/bafde97a-1f23-48d3-9e18-16065f2f97f9" />
+<img width="1920" height="1020" alt="Cuplikan layar 2025-11-12 190744" src="https://github.com/user-attachments/assets/f10afb22-2146-4dbf-8934-4ee1d99d3f38" />
 
 ### 5. Tampilan List Komentar
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/fcec41b3-1d54-427e-8ec0-663e6b0b8719" />
+<img width="1920" height="1020" alt="Cuplikan layar 2025-11-12 190945" src="https://github.com/user-attachments/assets/a7c7c5cd-3174-46fd-b86e-802557a87592" />
 
 ### 4. Tampilan Halaman Daftar Komentar (Admin)
 
 <img width="1920" height="1080" alt="Screenshot 2025-11-12 112125" src="https://github.com/user-attachments/assets/56b3467d-7825-4ad9-a2b2-03bb4b7ced1d" />
 
-### 5. Menghapus Akun
+### 5. Menghapus Komentar
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/a51d2739-2b6a-42a1-ae52-3bccfb1c7dc0" />
+<img width="1920" height="1020" alt="Cuplikan layar 2025-11-12 191231" src="https://github.com/user-attachments/assets/88068467-1f50-4321-8be8-19ef7de2efd0" />
 
 ### 6. Tampilan List setelah dihapus
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2f0c380d-97ff-4ea3-9da0-abc3ccfa9c91" />
+<img width="1920" height="1020" alt="Cuplikan layar 2025-11-12 190414" src="https://github.com/user-attachments/assets/c0682c51-e25f-413a-a07b-6de34a2d9273" />
+
